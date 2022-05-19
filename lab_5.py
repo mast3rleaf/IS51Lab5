@@ -51,3 +51,4 @@ def translate(sentence, dictionary):
     print(dictionary.get(word, word), " ", end="")
 
 main()
+
